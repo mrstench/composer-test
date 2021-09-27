@@ -1,0 +1,21 @@
+{
+    "name": "mrstench/composer-test",
+    "description": "composer-test description",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Mrstench\\ComposerTest\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mrstench",
+            "email": "1875392995@qq.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=7.4"
+    }
+}
